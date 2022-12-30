@@ -1,0 +1,4 @@
+Implements 
+public class inteerfacee {
+    
+}
